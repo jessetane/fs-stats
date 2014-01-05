@@ -1,0 +1,7 @@
+{
+  "name": "fs-stats",
+  "version": "0.0.0",
+  "description": "node's fs.Stats class as a standalone module",
+  "author": "Jesse Tane <jesse.tane@gmail.com>",
+  "license": "WTFPL"
+}
